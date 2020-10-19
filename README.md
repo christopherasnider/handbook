@@ -1,5 +1,16 @@
 # Our Handbook
 
+Tidepool's Employee Handbook was, and is, a labor of love, It has served us well in this GitHub repository for many, many years. But as times change and our humble team of 13 grew to more than 60, a number of process, people, and culture changes needed to happen to support a growing set of needs. One of those changes involves moving our Employee Handbook out of this repository to a new public Confluence space.
+
+In time, we will update this space with current content based on the reorganization of our employee resources treating the Employee Handbook in Confluence as our source of truth. For the time being, anyone is welcome to fork this repository to serve as a foundation for your own needs. Just know that unless clearly stated, this content is a bit outdated for Tidepool.
+
+To review our latest policies, please see [Tidepool's Employee Handbook in this Public Confluence Space](https://tidepool.atlassian.net/wiki/spaces/HANDBOOK/overview).
+
+Manny Hernandez  
+VP, People and Culture of Tidepool
+
+***
+
 First, a thank you. This Tidepool Employee Handbook is a derivative of the [Clef Employee Handbook](https://github.com/clef/handbook/). Although Clef no longer exists (sniff, sniff, we loved Clef), the fine folks at Clef made their handbook available to all via a Creative Commons license, and for that we are very thankful.
 
 At Tidepool, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries (both software and medical devices). It takes active effort to find the hidden biases in our companies and remove them.
@@ -71,7 +82,7 @@ CEO of Tidepool
 Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Brandon Arbiter](https://twitter.com/pancreasingame)
 * [Chris McGee](https://github.com/krystophv)
-* [Christopher Snider](https://twitter.com/iamspartacus)
+* [Christopher Snider](https://twitter.com/iam_spartacus)
 * [Clint Beacock](https://github.com/cbwebdevelopment)
 * [Darin Krauss](https://github.com/darinkrauss)
 * [Eric Luhrs](https://twitter.com/EricLuhrs)
